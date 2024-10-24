@@ -1,5 +1,5 @@
-# Dev Management Dashboard
-
+# Finance Management Dashboard
+NOTE: Role based Authentication coming soon
 ## Getting Started
 
 First, run the development server:
